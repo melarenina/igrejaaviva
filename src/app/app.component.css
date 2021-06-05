@@ -1,6 +1,6 @@
 .parallax {
   /* The image used */
-  background-image: url('../assets/fundo.png');
+  background-image: url('../assets/site.png');
 
   /* Full height */
   height: 49em;
@@ -97,5 +97,9 @@ button{
 
   .logoDuda{
     width: 13em;
+  }
+
+  .contentContact{
+    padding-left: 3em;
   }
 }
